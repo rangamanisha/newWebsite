@@ -24,7 +24,7 @@
                 @include alt-font;
                 &.active {
                     color: $theme-primary !important;
-                    background-color: ;
+                    background-color: transparent;
                     &:hover {
                         background-color: transparent;
                     }
