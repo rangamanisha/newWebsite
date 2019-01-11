@@ -297,7 +297,7 @@ section.features .feature-item i {
 section.cta {
   position: responsive;
   padding: 60px;
-  background-image: url("../img/bg-cta.jpg");
+  background-image: url("../img/bg-cta.png");
   background-repeat:no-repeat;
   background-size:contain;
   background-position:center;
@@ -311,11 +311,11 @@ section.cta .cta-content {
 }
 
 section.cta .cta-content h2 {
-  font-size: 15px;
-  max-width: 450px;
+  font-size: 10px;
+  max-width: 250px;
   margin-top: 0;
-  margin-bottom: 25px;
-  color:goldenrod;
+  margin-bottom: 20px;
+  color:rgb(241, 239, 95);
 }
 
 @media (min-width: 768px) {
